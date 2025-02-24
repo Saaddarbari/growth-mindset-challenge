@@ -1,4 +1,4 @@
-# 🚀 Growth Mindset Challenge: Web App with Streamlit 🚀
+# 🚀 Growth Mindset Challenge: Web App with Streamlit.
 Welcome to my latest project, built using Python and Streamlit, as part of the Growth Mindset Challenge! This repository showcases two applications designed to solve real-world problems and enhance the user experience.
 
 ## 📌 Quarter 3 Assignment 1: XLSX to CSV Converter Web App
