@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Initialize an empty list to store data
+st.set_page_config(page_title="Personal Finance", layout="wide")
 if 'transactions' not in st.session_state:
     st.session_state.transactions = []
 if 'income' not in st.session_state:
