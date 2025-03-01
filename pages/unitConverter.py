@@ -63,8 +63,8 @@ conversion_factors = {
     },
     "Digital Storage": {
         "Bit": 1, "Byte": 8, "Kilobit": 1000, "Kilobyte": 8000,
-        "Megabit": 1_000_000, "Megabyte": 8_000_000, "Gigabit": 1_000_000_000,
-        "Gigabyte": 8_000_000_000, "Terabit": 1_000_000_000_000, "Terabyte": 8_000_000_000_000
+        "Megabit": 1000000, "Megabyte": 8000000, "Gigabit": 1000000000,
+        "Gigabyte": 8000000000, "Terabit": 1000000000000, "Terabyte": 8000000000000
     }
 }
 
