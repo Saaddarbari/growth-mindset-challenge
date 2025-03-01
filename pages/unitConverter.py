@@ -1,6 +1,7 @@
 import streamlit as st
 
 # CSS for styling elements
+st.set_page_config(page_title="UnitConvertor", layout="wide")
 st.markdown(
     """
     <style>
