@@ -8,8 +8,6 @@ if 'transactions' not in st.session_state:
 if 'income' not in st.session_state:
     st.session_state.income = 0
 
-# Set up Streamlit title and description with icons
-# st.title("🚀 Personal Finance Tracker")
 st.markdown(
     """
     <style>
