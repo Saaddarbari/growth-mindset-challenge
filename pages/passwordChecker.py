@@ -2,7 +2,7 @@ import streamlit as st
 import re
 
 # Page configuration
-st.set_page_config(page_title="Password Checker", layout="wide")
+st.set_page_config(page_title="Password Strength Meter", layout="wide")
 
 # Custom CSS for styling
 st.markdown(
@@ -18,7 +18,7 @@ st.markdown(
             }
         }
     </style>
-    <h1 class="responsive-title">🚀 Password Checker</h1>
+    <h1 class="responsive-title">🚀 Password Strength Meter</h1>
     """,
     unsafe_allow_html=True
 )
